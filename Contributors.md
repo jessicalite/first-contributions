@@ -8854,4 +8854,4 @@ James Crawf
 - [Kyle Smith](https://github.com/sKorpion19091)
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Filip lenaerts](https://github.com/filiplenaerts)
-- [Jessica] (https://github.com/jessicalite)
+- [Jessica](https://github.com/jessicalite)
